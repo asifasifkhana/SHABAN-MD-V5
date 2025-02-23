@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~rTYGySpT#TsYRD_4mcEAg8Gl6x16cUA8vKzgQwkTz_eai7P-UsG4.",
       "required": true,
       "value": ""
     },  
@@ -66,7 +66,7 @@
 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
 
