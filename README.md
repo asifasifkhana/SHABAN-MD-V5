@@ -42,7 +42,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
  <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/fork"><img title="SHABAN-MD-V5" src="https://img.shields.io/badge/FORK-SHABAN MD V5-h?color=green&style=for-the-badge&logo=github"></a>
   
 <p align="lift">
-<a href="https://pair-786-f8523c066cc3.herokuapp.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1-teal?style=for-the-badge&logo=heroku"></a>
+<a href="https://immediate-adrea-mrshabankha-10a61447.koyeb.app/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1-teal?style=for-the-badge&logo=koyeb"></a>
 <p/>
 
 <p align="lift">
@@ -50,7 +50,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 <p/>
 
 <p align="lift">
-<a href="https://mega-vip.onrender.com/pair"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION ID-3-darkgreen?style=for-the-badge&logo=render"></a>
+<a href="https://mega-vip.onrender.com"><img height= "25" title="Author" src="https://img.shields.io/badge/GET SESSION ID-3-darkgreen?style=for-the-badge&logo=render"></a>
 <p/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+⤵️+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
@@ -79,7 +79,7 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
 
-| [![Mr Shaban](https://github.com/MRSHABAN40.png?lenght=50width=50)](https://github.com/MRSHABAN40) |
+| [![Mr Shaban](https://github.com/MRSHABAN40.png?lenght=60width=60)](https://github.com/MRSHABAN40) |
 |----|
 | [ MR SHABAN ](https://wa.me/message/L5NHEHHAQUQZF1) |
 | OWNER CONTACT |
