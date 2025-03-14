@@ -42,16 +42,16 @@ href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img he
  <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/fork"><img title="SHABAN-MD-V5" src="https://img.shields.io/badge/FORK-SHABAN MD V5-h?color=green&style=for-the-badge&logo=github"></a>
   
 <p align="lift">
-<a href="https://pure-felipa-mrshabankha-099512e6.koyeb.app/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET PAIR 1-teal?style=for-the-badge&logo=koyeb"></a>
+<a href="https://pair2-mega-9a9d225ffc3c.herokuapp.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET PAIR 1-teal?style=for-the-badge&logo=koyeb"></a>
 <p/>
 
 <p align="lift">
-<a href="https://mega-pair-shaban-e6876638dd02.herokuapp.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET PAIR 2-blue?style=for-the-badge&logo=heroku"></a>
+<a href="https://shaban-md-pair2-b9f08c5dc399.herokuapp.com/"><img height= "25" title="Author" src="https://img.shields.io/badge/GET PAIR 2-blue?style=for-the-badge&logo=heroku"></a>
 <p/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗘𝗣𝗟𝗢𝗬+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/misbha37/SHABAN-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/shani-kh/Data)
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </div>
